@@ -5,6 +5,8 @@
 .map__image{
     width: 50%;
     float: left;
+    margin-left: 22%;
+    margin-top: 6%;
 }
 
 .map__image path{ 
